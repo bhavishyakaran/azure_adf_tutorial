@@ -1,0 +1,9 @@
+{
+	"name": "AdfApexbk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a315684-b5d0-4a19-b736-f9c245f80d13",
+		"tenantId": "12773e2a-275a-4580-9f42-c68ccc8e2b91"
+	}
+}
