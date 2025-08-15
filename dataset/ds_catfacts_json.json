@@ -1,0 +1,17 @@
+{
+	"name": "ds_catfacts_json",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_http_catfacts",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Json",
+		"typeProperties": {
+			"location": {
+				"type": "HttpServerLocation"
+			}
+		},
+		"schema": {}
+	}
+}
